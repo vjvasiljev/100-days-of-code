@@ -10,3 +10,4 @@ Started the challenge on my own, so I didn't log the first 35 days here.
 Worked on a bootstrap website for a client, created responsive cards, and collapsing descrptions.
 
 ### R1D37
+Finished React Section on FreeCodeCamp.com
