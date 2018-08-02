@@ -18,6 +18,6 @@ Created a Contacts page in bootstrap for a client.
 ### R1D39 08.01
 Created a couple more Bootstrap pages fo a client. Also got to use Google Maps API for the first time. Was a bit shocked you have to pay for it!
 
-### R1D340 08.02
+### R1D40 08.02
 
 D40 I am still doing work on the Bootstrap Website  for a client. Implemented a couple more components, uploaded the under construction version to a hosting. http://bellyfest.eu
