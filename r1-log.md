@@ -21,3 +21,7 @@ Created a couple more Bootstrap pages fo a client. Also got to use Google Maps A
 ### R1D40 08.02
 
 D40 I am still doing work on the Bootstrap Website  for a client. Implemented a couple more components, uploaded the under construction version to a hosting. http://bellyfest.eu
+
+### R1D41 08.03
+
+Continuing work on the Bootstrap website. Fixed a couple of page layouts, also created a page with a seminar timetable and schedule.
