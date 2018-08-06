@@ -25,3 +25,6 @@ D40 I am still doing work on the Bootstrap Website  for a client. Implemented a 
 ### R1D41 08.03
 
 Continuing work on the Bootstrap website. Fixed a couple of page layouts, also created a page with a seminar timetable and schedule.
+
+### R1D42-43 08.04-05
+Continuing work on a bootstrap website. Created a complex registration form with validation and changing inputs based on user selections lika age and so on :)
